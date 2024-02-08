@@ -46,3 +46,7 @@ class Parser:
         self.save_to_postgres(mebel_items)
 
 Parser().run()
+
+
+# Новый коммит
+
